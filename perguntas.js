@@ -1,53 +1,53 @@
 criaCartao(
-    'Taylor Swift',
-    ' Qual é a ordem dos álbuns da Taylor Swift?',
-    'Taylor Swift, Fearless, Speak Now, Red, 1989, Reputation, Lover, Folklore, Evermore e Midnights'
+    'Harry Potter',
+    'Qual foi a primeira Horcrux a ser destruída?',
+    'Diário de Tom Ridddle'
 )
 
 criaCartao(
-    'Taylor Swift',
-    'Qual é o nome completo de Taylor Swift?',
-    'Taylor Alison Swift'
+    'Harry Potter',
+    'Entre Harry, Ron e Hermione, quem é mais velho?',
+    'Hermione'
 )
 
 criaCartao(
-    'Taylor Swift',
-    'Quantos gatos Taylor têm?',
+    'Harry Potter',
+    '',
     '3'
 )
 
 criaCartao(
-    'Taylor Swift',
+    'Harry Potter',
     'Qual a data de nascimento de Taylor?',
     '13/12/1989'
 )
 
 criaCartao(
-    'Taylor Swift',
+    'Harry Potter',
     'Quantos Grammys Taylor têm?',
     '11'
 )
 
 criaCartao(
-    'Taylor Swift',
+    'Harry Potter',
     'Qual o nome da turnê atual de Taylor?',
     'The Eras Tour'
 )
 
 criaCartao(
-    'Taylor Swift',
+    'Harry Potter',
     'Por que os álbuns de Taylor foram regravados? ',
     'Por que ela perdeu para a gravadora antiga'
 )
 
 criaCartao(
-    'Taylor Swift',
+    'Harry Potter',
     'Qual música da Taylor Paula Fernandes participa?',
     'Long Live'
 )
 
 criaCartao(
-    'Taylor Swift',
+    'Harry Potter',
     'Nome da primeira música de Taylor?',
     'Tim McGraw'
 )
