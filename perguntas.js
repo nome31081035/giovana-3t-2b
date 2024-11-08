@@ -12,44 +12,39 @@ criaCartao(
 
 criaCartao(
     'Harry Potter',
-    '',
-    '3'
+    'Quem era o senhor de Winky?',
+    'Bartô Crouch'
 )
 
 criaCartao(
     'Harry Potter',
-    'Qual a data de nascimento de Taylor?',
-    '13/12/1989'
+    'Todas as senhas para entrar no escritório de Dumbledore tem algo em comum. O que é?',
+    'Todas as senhas são nomes de doces'
 )
 
 criaCartao(
     'Harry Potter',
-    'Quantos Grammys Taylor têm?',
-    '11'
+    'Quando uma pessoa é petrificada pelo olhar do Basilisco, só existe uma coisa que pode faze-la voltar ao normal, essa coisa é?',
+    'Chá de Mandragora'
 )
 
 criaCartao(
     'Harry Potter',
-    'Qual o nome da turnê atual de Taylor?',
-    'The Eras Tour'
+    'Qual era o nome da coruja pertencente a família Weasley?',
+    'Errol'
 )
 
 criaCartao(
     'Harry Potter',
-    'Por que os álbuns de Taylor foram regravados? ',
-    'Por que ela perdeu para a gravadora antiga'
+    'Quantos jogadores têm em um time de quadribol e quais suas posições? ',
+    '7 JOGADORES: 1 Goleiro; 2 Batedores, 3 Artilheiros e 1 Apanhador'
 )
 
 criaCartao(
     'Harry Potter',
-    'Qual música da Taylor Paula Fernandes participa?',
-    'Long Live'
+    'Qual o nome das três escolas que participam do Torneio Tribruxo?',
+    'Escola de Magia e Bruxaria de Hogwarts, Instituto Durmstrang de Magia e Bruxaria e Academia de Magia Beauxbatons'
 )
 
-criaCartao(
-    'Harry Potter',
-    'Nome da primeira música de Taylor?',
-    'Tim McGraw'
-)
 
 
